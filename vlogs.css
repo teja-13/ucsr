@@ -1,0 +1,80 @@
+body{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin: 10px;
+  padding: 0px;
+  background-color: burlywood;
+}
+header
+{
+  text-align: center;
+  padding: 20px;
+  background-color:#E9967A;
+}
+.cover-photo img
+{
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+.about-me
+{
+    padding: 20px;
+    background-color: azure;
+    margin: 20px;
+     border-radius: 8px;
+     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+     justify-content: center;
+}
+.uma
+{
+  justify-content: center;
+  text-align: center;
+  text-shadow: #333;
+  align-items: flex-start;
+}
+footer
+{
+    text-align: center;
+    padding: 20px;
+    background-color: #333;
+    color:white;
+    width: 100%;
+    margin-top: 20px;
+}
+footer .social-media
+{
+    margin-top: 20px;
+}
+footer .social-media h2{
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+footer .social-media a{
+    display: inline-block;
+    margin: 5px 10px;
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    background-color: #555;
+    padding: 8px 12px;
+    border-radius: 5px;
+}
+footer .social-media a:hover {
+    background-color: #777;
+}
+nav a {
+  text-decoration: none; 
+  color: black; 
+  font-size: 18px; 
+  
+}
+.ssc
+{
+  width: 150px;
+  height: 150px;
+  border-radius: 15px;
+  background-color: #777;
+  padding: 10px;
+  justify-content: center;
+}
