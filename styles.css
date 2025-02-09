@@ -67,10 +67,14 @@ nav a {
   text-decoration: none; 
   color: black; 
   font-size: 18px; 
-  
 }
 .ssc
 {
+  width: 150px;
+  height: 150px;
+  border-radius: 15px;
+  background-color: #777;
+  padding: 10px;
   display:flex;
   justify-content: center;
 }
